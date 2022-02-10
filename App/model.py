@@ -25,6 +25,7 @@
  """
 
 
+from fileinput import filename
 import config as cf
 from DISClib.ADT import list as lt
 assert cf
@@ -74,4 +75,5 @@ def createTagList():
 
 def addBookTags():
     # TODO: Modificación de Est-1 y Est-2 en el Lab 2
-    pass
+    booktags = lt.newList(datastructure="SINGLE LINKED", filename=booktagsfile)
+    return booktags

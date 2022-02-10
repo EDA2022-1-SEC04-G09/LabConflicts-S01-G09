@@ -1,3 +1,7 @@
+Carolina Chinchilla - 202011842 - m.chinchilla@uniandes.edu.co - estudiante 1
+Jose Mendoza - 202022667 - j.mendozam@uniandes.edu.co - estudiante 2
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
